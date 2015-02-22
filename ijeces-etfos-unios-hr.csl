@@ -145,7 +145,7 @@
             <group delimiter=", ">
               <group delimiter=" ">
                 <text term="in"/>
-                <text variable="container-title" font-style=""/>
+                <text variable="container-title"/>
               </group>
               <text variable="event-place"/>
             </group>
